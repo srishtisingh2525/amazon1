@@ -109,8 +109,7 @@
 /* box5 */
 .nav-signin{
     height: 45px;
-}
-span{
+}span{
     font-size: 0.75rem;
 }
 .nav-scond{
@@ -334,4 +333,26 @@ ul a{
 .foot-panel4{
     height: 180px;
     background-color: #131a22;
+    margin-top: 0px;
+}
+.foot-pan1{
+    margin-left: 300px;
+    margin-right: 500px;
+}
+.foot-pan2{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.foot-pan3{
+    display: inline-block;
+    color: #DDDDDD;
+    font-size: 0.85rem;
+}
+.foot-pan3{
+    display: block;
+    color: #999999;
+    font-size: 0.7rem;
 }
