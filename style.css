@@ -331,28 +331,40 @@ ul a{
 }
 
 .foot-panel4{
-    height: 180px;
-    background-color: #131a22;
-    margin-top: 0px;
+    background-color: #131A22;
+    height: 185px;
 }
 .foot-pan1{
-    margin-left: 300px;
+    margin-left: 350px;
     margin-right: 500px;
 }
 .foot-pan2{
     display: flex;
-    justify-content: space-evenly;
     flex-wrap: wrap;
-    gap: 30px;
+    gap: 8px 40px;
 }
-
 .foot-pan3{
-    display: inline-block;
-    color: #DDDDDD;
+    display: inline;
+    line-height: 14px;
+}
+.foot-pan4{
     font-size: 0.85rem;
+    color: #DDDDDD;
+    margin: 0%;
+    padding: 0%;
 }
-.foot-pan3{
-    display: block;
+.foot-pan5{
+    font-size: 0.75rem;
     color: #999999;
-    font-size: 0.7rem;
+    margin: 0%;
+    padding: 0%;
+}
+.foot-panel5{
+    background-color: #131A22;
+    color: #DDDDDD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    font-size: 0.85rem;
 }
