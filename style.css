@@ -362,9 +362,18 @@ ul a{
 .foot-panel5{
     background-color: #131A22;
     color: #DDDDDD;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 80px;
-    font-size: 0.85rem;
+    font-size: 0.75rem;
+    font-weight: 500;
 }
+.foot-page{
+    padding-top: 25px;
+    margin-left: 550px;
+}
+.foot-page a{
+    margin-left: 10px;
+}
+.copy{
+    margin-left: 590px;
+}
+
